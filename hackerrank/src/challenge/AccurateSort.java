@@ -1,4 +1,4 @@
-package sort;
+package challenge;
 
 import java.util.Scanner;
 
