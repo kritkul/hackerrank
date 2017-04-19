@@ -1,6 +1,5 @@
 package bitmanage;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class LonelyInteger {
