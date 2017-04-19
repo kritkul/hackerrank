@@ -18,7 +18,6 @@ public class ZeroOneGame {
             
         }
     
-
 	}
 	
 	static boolean isAliceWin(int[] seq, int n) {
