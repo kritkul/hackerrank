@@ -7,6 +7,8 @@ package math;
  *  now we need to select 2 of them which ordering does not matter and identify how many way to pick them?
  *  possibility could be : {1,2}, {1,3}, {1,4} , {2,3} , {2,4}, {3,4}
  *  this technique is called : combination or binomial coefficient.
+ *  
+ *  if ordering does matter, so we used permutation technique.
  */
 public class Permutation {
 	int n;

@@ -5,18 +5,19 @@ import java.util.Scanner;
 public class FibonacciFinding {
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+//		Scanner scanner = new Scanner(System.in);
+//        int n = scanner.nextInt();
         
         long startTime = System.currentTimeMillis();
         
-        for(int i=0; i<n ; i++){
+/*        for(int i=0; i<n ; i++){
         	int a0 = scanner.nextInt();
         	int a1 = scanner.nextInt();
         	int loop = scanner.nextInt();
         	
         	System.out.println(findFibonacci(a0,a1,loop));
-        }
+        }*/
+        System.out.println(findFibo(25));
         
         long endTime = System.currentTimeMillis();
 		
